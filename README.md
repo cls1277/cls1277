@@ -1,76 +1,51 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## cls1277 (Him/He) 🌻
-- 🔭 I’m a Student
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+## cls1277 (Him/He) 
+-  I’m a student majoring in computer & science from **China**.
+-  My homepage is here. [http://www.cls1277.com/](http://www.cls1277.com/).
+-  My other sites can be found on my homepage.
+-  How to reach me: only QQ 932163311
+-  You are particularly welcome to communicate with me.
 
 <details>
 <summary>
-  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://github.com/cls1277"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 
-### Little More About Me  
+### Little More About Me :
 
-I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the Chair of [SVCE-ACM Student Chapter](https://svce.acm.org/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
+id：cls1277（曹老师）
 
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+家乡是美丽的山东，2020年开始在武汉学计算机
+My hometown is beautiful Shandong. I began to study computer & science in Wuhan in 2020.
 
-### Programming Languages :scroll:
+喜欢做一件事 喜欢真诚的人 喜欢爱我的人
+like doing one thing, like sincere people, like people who love me.
+
+接触过c++ python java matlab web等
+Have learned a little about c++python java matlab web, etc.
+
+你又怎能通过几句话认识完整的我？
+How can you know me in a few words?
+
+非常欢迎您与我交流
+You are very welcome to communicate with me.
+
+### Programming Languages :
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
 
-### Database Systems :bar_chart:
+### Honors and Award :
 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp; 
-
-### Tools and Frameworks :hammer:
-
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/opencv.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/inkscape.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobexd.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
-
-### Honors and Award :trophy:
-
-1. **Smart India Finalist 2020 - Software Edition**
-   - :round_pushpin:&nbsp;&nbsp;**All India Council for Technical Education (AICTE)**
-   - Shortlisted for Problem Statement: RK59 by Bureau of Police Research & Development. 
-2. **First Place - Daksh Smart Finance Hackathon (2020)**
-   - Won the First Place in a 36-hour Hackathon conducted by the **Shanmugha Arts, Science, Technology & Research Academy (SASTRA), Tamil Nadu**.
-3. **Fourth Place - St. Peter's Hackathon (2019)**
-   - Won the Fourth Place in a 12-hour Hackathon of over 100+ participants conducted by the **St. Peter's College of Engineering and Technology, Chennai.**
-4. **Third Place - SSN IEEE Hack & Tackle (2019)**
-   - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
-5. **Founder and Lead - Active Specialized Support Group (ASSG)**
-   - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
+1. (有时间再写)
  
 <br></details>
 <!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
+<p align="center"><a href="http://hits.dwyl.com/cls1277/cls1277"><img src="http://hits.dwyl.com/cls1277/cls1277.svg" alt="HitCount"></a></p>
 <img src="https://imgur.com/rilHVxA.png"/>

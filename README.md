@@ -17,19 +17,14 @@
 
 id：cls1277（曹老师）
 
-家乡是美丽的山东，2020年开始在武汉学计算机
 My hometown is beautiful Shandong. I began to study computer & science in Wuhan in 2020.
 
-喜欢做一件事 喜欢真诚的人 喜欢爱我的人
 like doing one thing, like sincere people, like people who love me.
 
-接触过c++ python java matlab web等
 Have learned a little about c++python java matlab web, etc.
 
-你又怎能通过几句话认识完整的我？
 How can you know me in a few words?
 
-非常欢迎您与我交流
 You are very welcome to communicate with me.
 
 ### Programming Languages :
